@@ -1,0 +1,26 @@
+cff-version: "1.2.0"
+title: "AI Foundations / Origin | Continuum: App Source Manifest"
+version: "1.0.0"
+type: software
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+message: "If you use or reference this repository, cite it as part of the AI Foundations / Origin | Continuum source-line."
+
+abstract: "A source-line repository defining the app source manifest for AI Foundations / Origin | Continuum interfaces, preserving that apps may reference AI Foundations only through bounded workspace containment and source-line preservation."
+
+keywords:
+  - "AI Foundations"
+  - "Origin Continuum"
+  - "app source manifest"
+  - "bounded workspace"
+  - "containment"
+  - "Continuum is not the model"
+  - "AI Foundations cannot be extended"
+  - "source-line"
+  - "source-line preservation"
+  - "derivative use not authorized"
+  - "AI boundary"
+  - "provenance"
